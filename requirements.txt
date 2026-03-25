@@ -1,0 +1,9 @@
+pandas
+torch
+transformers
+nltk
+matplotlib
+seaborn
+evaluate
+scikit-learn
+sacrebleu
