@@ -127,4 +127,4 @@ The script will sequentially run all four tasks and output:
 
 ## License
 
-MIT
+[MIT](LICENSE)
