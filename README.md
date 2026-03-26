@@ -40,9 +40,15 @@ Car-Review-LLM-Pipeline/
 │   ├── car_reviews.csv            # 5 labelled car reviews (POSITIVE/NEGATIVE)
 │   └── reference_translations.txt # Reference Spanish translations for BLEU scoring
 │
+├── .gitignore
+├── LICENSE
+├── README.md
+├── car.jpeg
 ├── car_llm_project.py             # Main pipeline script
+├── confusion_matrix.png
+├── notebook.ipynb
 ├── requirements.txt
-└── README.md
+└── results_dashboard.png
 ```
 
 ---
