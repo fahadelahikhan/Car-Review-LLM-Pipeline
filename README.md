@@ -1,12 +1,12 @@
 # Car-Review-LLM-Pipeline
 
-An end-to-end NLP pipeline built for **Car-ing is Sharing**, a fictional car sales and rental company, to prototype AI-powered features using pre-trained Hugging Face LLMs. The pipeline processes real customer car reviews through four distinct language tasks — from sentiment classification to bias analysis.
+An end-to-end NLP pipeline built for **Car-ing is Sharing**, a fictional car sales and rental company, to prototype AI-powered features using pre-trained Hugging Face LLMs. The pipeline processes real customer car reviews through four distinct language tasks, from sentiment classification to bias analysis.
 
 ---
 
 ## Problem Statement
 
-Car dealerships collect massive amounts of unstructured text data from customer reviews but lack the tooling to act on it. This project demonstrates how pre-trained LLMs can be composed into a lightweight pipeline that extracts actionable insights — sentiment, translated content, direct answers to business questions, and concise summaries — without training a model from scratch.
+Car dealerships collect massive amounts of unstructured text data from customer reviews but lack the tooling to act on it. This project demonstrates how pre-trained LLMs can be composed into a lightweight pipeline that extracts actionable insights: sentiment, translated content, direct answers to business questions, and concise summaries, without training a model from scratch.
 
 ---
 
